@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
     @IBOutlet weak var textLabel: UILabel!
-    @IBOutlet weak var TextField: UITextField!
+    
     
     
     override func viewDidLoad() {
